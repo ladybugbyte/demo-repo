@@ -1,1 +1,3 @@
-# demo-repo
+# Description of demo repo
+
+Something it does
