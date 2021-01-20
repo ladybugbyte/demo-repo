@@ -1,3 +1,7 @@
 # Description of demo repo
 
-Something it does
+My python project
+
+# Someting new and something else
+
+What I will be doing in this project
